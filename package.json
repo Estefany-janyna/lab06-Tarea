@@ -1,0 +1,14 @@
+{
+  "name": "tecsup-2023-tarea-taipetorres",
+  "version": "0.0.1",
+  "description": "validaciones de fecha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Estefany Taipe",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
+}
